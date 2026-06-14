@@ -20,4 +20,4 @@ JavaScriptの基本構文、DOM操作などを一通り学んだ後、
 | デモサイト                                                                 | パス（フォルダ）名 | 参考                                                                                                                      |
 | -------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | [Furniture Design](https://y-tsuda-katachi.github.io/code-jump-js/store2/) | store2             | [【HTML/CSS コーディング練習】中級編：ストアサイト（インテリア）／グリッドレイアウト](https://code-jump.com/store2-menu/) |
-| [COFFEE](https://y-tsuda-katachi.github.io/code-jump-js/store/)            | store2             | [【HTML/CSS コーディング練習】中級編：ストアサイト（インテリア）／グリッドレイアウト](https://code-jump.com/store-menu/)  |
+| [COFFEE](https://y-tsuda-katachi.github.io/code-jump-js/store/)            | store              | [【HTML/CSS コーディング練習】上級編：ストアサイト（カフェ）／パララックス](https://code-jump.com/store-menu/)            |
