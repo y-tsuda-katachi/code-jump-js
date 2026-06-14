@@ -21,9 +21,3 @@ JavaScriptの基本構文、DOM操作などを一通り学んだ後、
 | -------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | [Furniture Design](https://y-tsuda-katachi.github.io/code-jump-js/store2/) | store2             | [【HTML/CSS コーディング練習】中級編：ストアサイト（インテリア）／グリッドレイアウト](https://code-jump.com/store2-menu/) |
 | [COFFEE](https://y-tsuda-katachi.github.io/code-jump-js/store/)            | store2             | [【HTML/CSS コーディング練習】中級編：ストアサイト（インテリア）／グリッドレイアウト](https://code-jump.com/store-menu/)  |
-
-## 権利関係
-
-使用する画像、HTML/CSSの著作権はCodejumpに帰属します。
-
-JavaScriptで書かれたJSファイルについては、特に定めはありません。
