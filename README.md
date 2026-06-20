@@ -22,7 +22,7 @@ JavaScriptの基本構文、DOM操作などを一通り学んだ後、
 | [Furniture Design](https://y-tsuda-katachi.github.io/code-jump-js/store2/) | store2             | [【HTML/CSS コーディング練習】中級編：ストアサイト（インテリア）／グリッドレイアウト](https://code-jump.com/store2-menu/) |
 | [COFFEE](https://y-tsuda-katachi.github.io/code-jump-js/store/)            | store              | [【HTML/CSS コーディング練習】上級編：ストアサイト（カフェ）／パララックス](https://code-jump.com/store-menu/)            |
 | [明るいHOUSE](https://y-tsuda-katachi.github.io/code-jump-js/corporate3/)  | corporate3         | [【HTML/CSS コーディング練習】上級編：コーポレートサイト／固定サイドメニュー](https://code-jump.com/corporate3-menu/)     |
-| [BBS英会話スクール](https://code-jump.com/lp/)                             | lp                 | [【HTML/CSS コーディング練習】応用編：ランディングページ／CSSアニメーション](http://code-jump.com/lp-menu/)               |
+| [BBS英会話スクール](https://y-tsuda-katachi.github.io/code-jump-js/lp/)    | lp                 | [【HTML/CSS コーディング練習】応用編：ランディングページ／CSSアニメーション](http://code-jump.com/lp-menu/)               |
 
 ## 参考
 
